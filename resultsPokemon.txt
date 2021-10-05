@@ -1,0 +1,6 @@
+<Name>          <Won>   <Points>
+Bob              N       80
+Joseph           Y       140
+Alexis           Y       60
+Chirag           N       10
+09hjpoihj        Y       70
